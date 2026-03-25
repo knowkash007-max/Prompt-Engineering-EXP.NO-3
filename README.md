@@ -44,4 +44,4 @@ Missing Word Prompting:
 
 OUTPUT:
 
-RESULT: 
+RESULT:  Different prompting techniques help AI understand instructions clearly. Straightforward prompts give direct tasks, tabular prompts organize information in tables, preceding question prompts guide explanations, and missing word prompts test knowledge by filling blanks.
