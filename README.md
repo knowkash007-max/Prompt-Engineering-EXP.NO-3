@@ -1,6 +1,7 @@
 ## EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-## Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
+## Aim: 
+To write the prompts for the following prompt types for 2 different scenarios of Each type.
 
 1.Straightforward Prompts
 
@@ -44,4 +45,5 @@ Missing Word Prompting:
 
 ## OUTPUT:
 
-## RESULT:  Different prompting techniques help AI understand instructions clearly. Straightforward prompts give direct tasks, tabular prompts organize information in tables, preceding question prompts guide explanations, and missing word prompts test knowledge by filling blanks.
+## RESULT:
+Different prompting techniques help AI understand instructions clearly. Straightforward prompts give direct tasks, tabular prompts organize information in tables, preceding question prompts guide explanations, and missing word prompts test knowledge by filling blanks.
